@@ -33,6 +33,4 @@ Visit the website: [Sakura](https://danialouty.github.io/Sakura/)
 - `sakura.js` — Interactive functionality and Firebase integration
 - `*.jpg` — Flower images
 
-## Author
 
-Created by [Danial Outy](https://github.com/danialouty).
